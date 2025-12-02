@@ -6,6 +6,22 @@
 
 ###
 
+###
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Brenno  from Brazil<br><br>- 🔭 I’m studying Computer Science in my first semester<br>- 📚 I'm currently learning Arduino, Python, and core programming fundamentals.<br>- ⚡ In my free time I enjoy reading and spending time outdoors.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
