@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Brenno  from Brazil<br><br>- 🔭 I’m studying Computer Science in my first semester<br>- 📚 I'm currently learning Arduino, Python, and core programming fundamentals.<br>- ⚡ In my free time I enjoy reading and spending time outdoors.</p>
+<p align="left">I'm Brenno  from Brazil<br><br>- 🔭 I’m studying Computer Science in my second semester<br>- 📚 I'm currently learning Arduino, Python, and core programming fundamentals.<br>- ⚡ In my free time I enjoy reading and spending time outdoors.</p>
 
 ###
 
